@@ -64,6 +64,6 @@ Chennai, Tamil Nadu, India
 ## Contact
 - **Mobile:** 9543349228
 - **Email:** k.s.1998@mail.ca.in
-- **LinkedIn:** (www.linkedin.com/in/krishnakumar-s-82626b281)
+- **LinkedIn:** www.linkedin.com/in/krishnakumar-s-82626b281
 
 Feel free to connect and explore opportunities!
