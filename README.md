@@ -66,4 +66,3 @@ Chennai, Tamil Nadu, India
 - **Email:** k.s.1998@mail.ca.in
 - **LinkedIn:** www.linkedin.com/in/krishnakumar-s-82626b281
 
-Feel free to connect and explore opportunities!
