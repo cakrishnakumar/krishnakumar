@@ -1,7 +1,5 @@
 # Krishnakumar S
 
-
-## Headline
 Semi-Qualified Chartered Accountant | Finance Enthusiast
 
 ## Summary
