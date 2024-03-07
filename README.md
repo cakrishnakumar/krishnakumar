@@ -55,6 +55,12 @@ Chennai, Tamil Nadu, India
   - [Institute of Chartered Accountants of India]
   - Passing Year: November 2022
 
+- **DRBCCC Hindu College - India**
+- Bachelor of Commerce - BCom, Business/Commerce, General
+- *Jun 2015 - Apr 2018*
+  - Grade: First Class
+  - Activities and societies: Participated in NSS
+
 ## Contact
 - **Mobile:** 9543349228
 - **Email:** k.s.1998@mail.ca.in
