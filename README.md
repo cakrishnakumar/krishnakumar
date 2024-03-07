@@ -28,15 +28,16 @@ Chennai, Tamil Nadu, India
 - Role: Auditing
 - Skills: External Audits, and 5 more
 
-### Articleship Trainee
-**Ajay S & Co Chartered Accountants** · Articleship and Paid assistant
+### Articleship and Paid Assistant
+**Ajay S & Co Chartered Accountants** · Full-time
 *Jul 2018 - Jun 2022* · *4 yrs*
 Chennai, Tamil Nadu, India
-# Role:
-- Accounting (Book keeping services)
-- Income Tax Audit
-- Indirect Taxation (GST)
-- Audit (statutory audit under companies act and income tax act)
+
+**Roles and Responsibilities:**
+- **Accounting (Bookkeeping Services)**
+- **Income Tax Audit**
+- **Indirect Taxation (GST)**
+- **Audit (Statutory Audit under Companies Act and Income Tax Act)**
 
 ## Education
 - **Semi-Qualified Chartered Accountant (CA Intermediate)**
