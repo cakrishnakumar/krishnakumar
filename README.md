@@ -51,13 +51,13 @@ Chennai, Tamil Nadu, India
 - Audit (Statutory Audit under Companies Act and Income Tax Act)
 
 ## Education
-- **Semi-Qualified Chartered Accountant (CA Intermediate)**
-  - [Institute of Chartered Accountants of India]
+- ###Semi-Qualified Chartered Accountant (CA Intermediate)
+  - Institute of Chartered Accountants of India
   - Passing Year: November 2022
 
-- **DRBCCC Hindu College - India**
-- Bachelor of Commerce - BCom, Business/Commerce, General
-- *Jun 2015 - Apr 2018*
+- ###DRBCCC Hindu College - India
+  Bachelor of Commerce - BCom, Business/Commerce, General
+  *Jun 2015 - Apr 2018*
   - Grade: First Class
   - Activities and societies: Participated in NSS
 
