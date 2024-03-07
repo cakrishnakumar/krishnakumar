@@ -1,4 +1,4 @@
-# Krishnakumar S
+# Krishnakumar S (https://raw.githubusercontent.com/cakrishnakumar/krishnakumar/main/path/to/your/image.jpg)
 
 CA Finalist | Semi-Qualified Chartered Accountant | Finance Enthusiast
 
