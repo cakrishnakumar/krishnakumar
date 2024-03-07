@@ -35,10 +35,10 @@ Chennai, Tamil Nadu, India
 - Role: Goods and Services Tax (GST), Income Tax
 
 ## Skills
-- Accounting
-- Financial Analysis
-- Taxation
-- Audit
+- Accounting (Book keeping services)
+- Income Tax Audit
+- Indirect Taxation (GST)
+- Audit (statutory audit under companies act and income tax act)
 
 ## Education
 - **Semi-Qualified Chartered Accountant (CA Intermediate)**
