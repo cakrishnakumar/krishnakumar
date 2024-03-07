@@ -32,7 +32,7 @@ Chennai, Tamil Nadu, India
 **Ajay S & Co Chartered Accountants** · Articleship and Paid assistant
 *Jul 2018 - Jun 2022* · *4 yrs*
 Chennai, Tamil Nadu, India
-* Role:
+# Role:
 - Accounting (Book keeping services)
 - Income Tax Audit
 - Indirect Taxation (GST)
