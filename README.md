@@ -1,12 +1,11 @@
 # Krishnakumar S
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/krishnakumar-s-82626b281)
 
 ## Headline
 Semi-Qualified Chartered Accountant | Finance Enthusiast
 
 ## Summary
-Hello! I'm a results-driven and detail-oriented Chartered Accountant with a strong foundation in accounting and finance. Passionate about [Your Field/Interests], I excel in [Highlight a key strength or achievement]. Let's connect and explore potential collaborations!
+Hello! I'm a results-driven and detail-oriented Chartered Accountant with a strong foundation in accounting and finance. Passionate about tax planning and financial planning. Let's connect and explore potential collaborations!
 
 ## Experience
 
@@ -32,25 +31,24 @@ Chennai, Tamil Nadu, India
 - Skills: External Audits, and 5 more
 
 ### Articleship Trainee
-**Ajay S & Co Chartered Accountants** · Apprenticeship
+**Ajay S & Co Chartered Accountants** · Articleship and Paid assistant
 *Jul 2018 - Jun 2022* · *4 yrs*
 Chennai, Tamil Nadu, India
 - Role: Goods and Services Tax (GST), Income Tax
-- Skills: and 5 more
 
 ## Skills
 - Accounting
 - Financial Analysis
 - Taxation
 - Audit
-- [Add specific skills relevant to your field]
 
 ## Education
 - **Semi-Qualified Chartered Accountant (CA Intermediate)**
-  - [Name of Your Institute]
+  - [Institute of Chartered Accountants of India]
   - Passing Year: November 2022
 
 ## Contact
+- **Mobile:** 9543349228
 - **Email:** k.s.1998@mail.ca.in
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/krishnakumar-s-82626b281)
 
