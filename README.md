@@ -1,9 +1,9 @@
-# Krishnakumar S ![Your Name](https://raw.githubusercontent.com/cakrishnakumar/krishnakumar/main/path/to/your/MG_20240215_161228.jpg)
+# Krishnakumar S
 
 CA Finalist | Semi-Qualified Chartered Accountant | Finance Enthusiast
 
 ## Summary
-Hello! I'm a results-driven and detail-oriented Chartered Accountant with a strong foundation in accounting and finance. Passionate about tax planning and financial planning. Let's connect and explore potential collaborations!
+I'm a results-driven and detail-oriented Chartered Accountant with a strong foundation in accounting and finance. Passionate about tax planning and financial planning. Let's connect and explore potential collaborations!
 
 ## Experience
 
