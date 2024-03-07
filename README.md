@@ -11,6 +11,7 @@ Hello! I'm a results-driven and detail-oriented Chartered Accountant with a stro
 **Kuriachan & Nova Chartered Accountants** · Full-time
 *Nov 2023 - Present* · *5 mos*
 Anna Nagar, Chennai
+
 **Roles and Responsibilities:**
 - **Income Tax Filing**
 - **Indirect Taxation (GST)**
