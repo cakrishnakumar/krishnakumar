@@ -13,9 +13,9 @@ Hello! I'm a results-driven and detail-oriented Chartered Accountant with a stro
 Anna Nagar, Chennai
 
 **Roles and Responsibilities:**
-- **Income Tax Filing**
-- **Indirect Taxation (GST)**
-- **Audit (Statutory Audit under Companies Act and Income Tax Act)**
+- Income Tax Filing
+- Indirect Taxation (GST)
+- Audit (Statutory Audit under Companies Act and Income Tax Act)
 
 ### Paid Assistant
 **L Sreenivan & Co Chartered Accountants** · Full-time
@@ -23,21 +23,21 @@ Anna Nagar, Chennai
 Chennai, Tamil Nadu, India
 
 **Roles and Responsibilities:**
-- **Income Tax Audit**
-- **Indirect Taxation (GST)**
-- **Internal Audit**
-- 
+- Income Tax Audit
+- Indirect Taxation (GST)
+- Internal Audit
+
 ### Paid Assistant
 **K Ramanan & Co Chartered Accountants** · Full-time
 *Jul 2022 - Jan 2023* · *7 mos*
 Chennai, Tamil Nadu, India
 
 **Roles and Responsibilities:**
-- **Accounting (Bookkeeping Services)**
-- **Income Tax Filing**
-- **Indirect Taxation (GST)**
-- **Audit (Statutory Audit under Companies Act and Income Tax Act)**
-- **ROC Compliance**
+- Accounting (Bookkeeping Services)
+- Income Tax Filing
+- Indirect Taxation (GST)
+- Audit (Statutory Audit under Companies Act and Income Tax Act)
+- ROC Compliance
   
 ### Articleship and Paid Assistant
 **Ajay S & Co Chartered Accountants** · Full-time
@@ -45,10 +45,10 @@ Chennai, Tamil Nadu, India
 Chennai, Tamil Nadu, India
 
 **Roles and Responsibilities:**
-- **Accounting (Bookkeeping Services)**
-- **Income Tax Filing**
-- **Indirect Taxation (GST)**
-- **Audit (Statutory Audit under Companies Act and Income Tax Act)**
+- Accounting (Bookkeeping Services)
+- Income Tax Filing
+- Indirect Taxation (GST)
+- Audit (Statutory Audit under Companies Act and Income Tax Act)
 
 ## Education
 - **Semi-Qualified Chartered Accountant (CA Intermediate)**
