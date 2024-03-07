@@ -1,6 +1,6 @@
 # Krishnakumar S
 
-Semi-Qualified Chartered Accountant | Finance Enthusiast
+CA Finalist | Semi-Qualified Chartered Accountant | Finance Enthusiast
 
 ## Summary
 Hello! I'm a results-driven and detail-oriented Chartered Accountant with a strong foundation in accounting and finance. Passionate about tax planning and financial planning. Let's connect and explore potential collaborations!
@@ -56,7 +56,7 @@ Chennai, Tamil Nadu, India
   - Passing Year: November 2022
 
 ### DRBCCC Hindu College - India
-  Bachelor of Commerce - BCom, Business/Commerce, General
+  Bachelor of Commerce - BCom(General)
   *Jun 2015 - Apr 2018*
   - Grade: First Class
   - Activities and societies: Participated in NSS
